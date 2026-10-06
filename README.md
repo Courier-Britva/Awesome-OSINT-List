@@ -1061,6 +1061,7 @@ the number of views or likes.
 - [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
 - [TOPTL](https://toptl.net/) - Searchable directory of public Telegram channels, groups, and bots, organized by category and language.
 - [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
+- [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people
 - [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Telegram Channels, Groups, and Bots
 - [TelegramDB.org](https://telegramdb.org/) - TelegramDB is a service that allows you to search for channels, groups and their members.
